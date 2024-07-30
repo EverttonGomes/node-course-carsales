@@ -1,6 +1,6 @@
 # Node Course Carsales
 
-Este projeto foi desenvolvido com Node.js, é a API para o curso de frontend com Angular.
+Este projeto foi desenvolvido com Node.js, é a API para um frontend com Angular.
 
 ## Ambiente de desenvolvimento
 
